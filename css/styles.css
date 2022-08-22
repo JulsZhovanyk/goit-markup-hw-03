@@ -376,9 +376,6 @@ img {
   gap: 30px;
 }
 .list-of-links-portfolio-element {
-  border-bottom: 1px solid var(--color-ten);
-  border-left: 1px solid var(--color-ten);
-  border-right: 1px solid var(--color-ten);
   width: 370px;
 }
 .link-portfolio {
@@ -388,6 +385,9 @@ img {
   padding-top: 20px;
   padding-left: 25px;
   padding-bottom: 20px;
+  border-bottom: 1px solid var(--color-ten);
+  border-left: 1px solid var(--color-ten);
+  border-right: 1px solid var(--color-ten);
 }
 .section-portfolio-element {
   font-weight: 700;
