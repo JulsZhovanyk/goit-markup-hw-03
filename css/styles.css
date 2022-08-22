@@ -330,18 +330,14 @@ img {
 
 .section-portfolio {
   background-color: var(--color-one);
-  display: flex;
-  flex-direction: column;
-}
-.section-portfolio .container {
-  display: flex;
-  flex-direction: column;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .list-of-buttons {
   display: flex;
   gap: 10px;
   margin-bottom: 50px;
-  margin-top: 100px;
+  justify-content: center;
 }
 .button-portfolio {
   font-family: "Roboto", sans-serif;
@@ -378,14 +374,12 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  padding-bottom: 95px;
-  padding-left: 215px;
-  width: 1600px;
 }
 .list-of-links-portfolio-element {
   border-bottom: 1px solid var(--color-ten);
   border-left: 1px solid var(--color-ten);
   border-right: 1px solid var(--color-ten);
+  width: 370px;
 }
 .link-portfolio {
   text-decoration: none;
