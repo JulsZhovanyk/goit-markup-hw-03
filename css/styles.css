@@ -45,7 +45,9 @@ img {
   margin-right: auto;
 }
 
-/* =========== MAIN STYLES ============ */
+/* !!! ================ MAIN STYLES ================= !!! */
+
+/* =========== HEADER INFO ========== */
 
 .header-info {
   background-color: var(--color-one);
@@ -144,6 +146,9 @@ img {
 .address-street:focus {
   color: var(--color-two);
 }
+
+/* ========= MAIN HERO SECTION ========== */
+
 .main-section {
   background-color: var(--color-five);
   padding-top: 200px;
@@ -201,6 +206,9 @@ img {
 .section-list-element {
   width: 270px;
 }
+
+/* ========= SECTION QUALITIES ========= */
+
 .section-qualities {
   padding-bottom: 94px;
   padding-top: 94px;
@@ -236,6 +244,9 @@ img {
   line-height: 1.7;
   color: var(--color-seven);
 }
+
+/* ======== SECTION WORKS ========= */
+
 .section-works {
   padding-bottom: 94px;
 }
@@ -248,6 +259,9 @@ img {
 .section-works .section-header {
   margin-bottom: 50px;
 }
+
+/* ========= SECTION TEAM ========= */
+
 .section-team {
   background-color: var(--color-four);
   display: flex;
@@ -290,6 +304,9 @@ img {
   text-align: center;
   color: var(--color-seven);
 }
+
+/* ========= FOOTER INFO ======== */
+
 .footer-info {
   background-color: var(--color-five);
   padding-top: 94px;
@@ -326,7 +343,9 @@ img {
   font-style: normal;
 }
 
-/* ========= PORTFOLIO STYLES ==============*/
+/* !!! =============== PORTFOLIO STYLES =============== !!! */
+
+/* ======== SECTION PORTFOLIO ======== */
 
 .section-portfolio {
   background-color: var(--color-one);
